@@ -1,0 +1,2 @@
+# authManager
+authManager-test-show
